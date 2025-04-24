@@ -3,4 +3,4 @@ spring:
     name: config-server
 
 server:
-  port: 9095
+  port: 9096
