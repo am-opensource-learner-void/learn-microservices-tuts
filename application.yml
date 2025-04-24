@@ -2,9 +2,6 @@ spring:
   application:
     name: config-server
 
-server:
-  port: 9096
-
 eureka:
   instance:
     prefer-ip-address: true
